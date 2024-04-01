@@ -1,34 +1,33 @@
-import React from "react";
 
 const products = [
   {
     id: 1,
-    name: "Basic Tee",
+    name: "Image cap",
     color: "gray", // Red color
   },
   {
     id: 2,
-    name: "Premium Tee",
+    name: "Image cap",
     color: "gray", // Blue color
   },
   {
     id: 3,
-    name: "Casual Tee",
+    name: "Image cap ",
     color: "gray", // Green color
   },
   {
     id: 4,
-    name: "Formal Shirt",
+    name: "Image cap ",
     color: "gray", // Orange color
   },
   {
     id: 5,
-    name: "Formald Shirt",
+    name: "Image cap ",
     color: "gray", // Orange color
   },
   {
     id: 6,
-    name: "Formaldf Shirt",
+    name: "Image cap ",
     color: "gray", // Orange color
   },
 ];
